@@ -206,7 +206,7 @@ Every project is an opportunity to improve both technical and product skills.
 | Repository | Description | Tech |
 |------------|-------------|------|
 | 🌳 [**UM Forest Tracker**](https://github.com/jersanmd/umforesttracker) | Tree mapping & species identification platform for the University of Mindanao — interactive maps, image-based species detection | `CSS` `Maps` `ML` |
-| 🍽️ [**Wady's Bistro App**](https://github.com/jersanmd/wadys_bistro_mobile_app) | Flutter mobile app for a real restaurant — browse menu, search/filter items, product details, reservations | `Flutter` `Dart` |
+| 🍽️ [**Wady's Bistro App**](https://github.com/jersanmd/wadys-bistro-mobile-app) | Flutter mobile app for a real restaurant — browse menu, search/filter items, product details, reservations | `Flutter` `Dart` |
 | 💀 [**LordNine Death Notifier**](https://github.com/jersanmd/lordnine-death-notifier) | Single-script MMORPG automation bot — monitors game window, auto-recovers on death, Discord alerts for AFK farming | `Python` `Automation` |
 
 ## 🧪 Experiments & Learning
@@ -215,12 +215,12 @@ Every project is an opportunity to improve both technical and product skills.
 |------------|-------------|------|
 | 🧠 [**Deep Learning**](https://github.com/jersanmd/deeplearning) | Collection of ML/DL experiments, tutorials & implementations with PyTorch | `Python` `PyTorch` `Jupyter` |
 | 🍜 [**Umami**](https://github.com/jersanmd/umami) | Food delivery & order management app — three user roles (Customer, Driver, Manager) | `Flutter` `Dart` `Firebase` |
-| ₿ [**Crypto Wallet**](https://github.com/jersanmd/crypto_wallet) | React Native crypto tracker — real-time prices, portfolio monitoring, dark-themed mobile app | `React Native` `Expo` `JS` |
-| 🎵 [**Audio Player (GetX)**](https://github.com/jersanmd/audio_player_getx) | Feature-rich Flutter audio player — background playback, playlists, repeat/shuffle, polished UI | `Flutter` `Dart` `GetX` |
+| ₿ [**Crypto Wallet**](https://github.com/jersanmd/crypto-wallet) | React Native crypto tracker — real-time prices, portfolio monitoring, dark-themed mobile app | `React Native` `Expo` `JS` |
+| 🎵 [**Audio Player (GetX)**](https://github.com/jersanmd/audio-player-getx) | Feature-rich Flutter audio player — background playback, playlists, repeat/shuffle, polished UI | `Flutter` `Dart` `GetX` |
 | 🐱 [**Purrfect**](https://github.com/jersanmd/purrfect) | Cross-platform pet management — full CRUD, image uploads, Firebase backend, intuitive UI | `Flutter` `Dart` `Firebase` |
-| 📺 [**YouTube Clone**](https://github.com/jersanmd/Youtube-Cloning-with-xCode) | Native iOS YouTube app clone built with Swift & UIKit | `Swift` `UIKit` `iOS` |
-| 🎯 [**Learn Dart**](https://github.com/jersanmd/Learn-Dart) | Comprehensive Dart examples — basic syntax through advanced concepts for beginners | `Dart` `Education` |
-| 🧮 [**Improved K-Means**](https://github.com/jersanmd/improvedkmeans) | Enhanced K-Means clustering algorithm with optimizations and experiments | `Python` `ML` `Jupyter` |
+| 📺 [**YouTube Clone**](https://github.com/jersanmd/youtube-cloning-with-xcode) | Native iOS YouTube app clone built with Swift & UIKit | `Swift` `UIKit` `iOS` |
+| 🎯 [**Learn Dart**](https://github.com/jersanmd/learn-dart) | Comprehensive Dart examples — basic syntax through advanced concepts for beginners | `Dart` `Education` |
+| 🧮 [**Improved K-Means**](https://github.com/jersanmd/improved-kmeans) | Enhanced K-Means clustering algorithm with optimizations and experiments | `Python` `ML` `Jupyter` |
 
 </div>
 
