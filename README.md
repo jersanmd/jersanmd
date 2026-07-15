@@ -27,7 +27,7 @@ Building modern SaaS, AI applications, and open-source software.
 
 I'm a **full-stack software engineer** from Davao City, Philippines 🇵🇭 who turns ideas into production products.
 
-My work spans SaaS platforms, AI-powered tools, mobile apps, and automation scripts, 14 public repositories covering TypeScript, Python, Dart, Swift, and more. I ship complete applications end-to-end: database design, API architecture, polished UI, and production deployment.
+My work spans SaaS platforms, AI-powered tools, mobile apps, and automation scripts, 15 public repositories covering TypeScript, Python, Dart, Swift, and more. I ship complete applications end-to-end: database design, API architecture, polished UI, and production deployment.
 
 I believe code is only valuable when it solves someone's problem.
 
@@ -220,6 +220,7 @@ Every project is an opportunity to improve both technical and product skills.
 | 🐱 [**Purrfect**](https://github.com/jersanmd/purrfect) | Cross-platform pet management — full CRUD, image uploads, Firebase backend, intuitive UI | `Flutter` `Dart` `Firebase` |
 | 📺 [**YouTube Clone**](https://github.com/jersanmd/Youtube-Cloning-with-xCode) | Native iOS YouTube app clone built with Swift & UIKit | `Swift` `UIKit` `iOS` |
 | 🎯 [**Learn Dart**](https://github.com/jersanmd/Learn-Dart) | Comprehensive Dart examples — basic syntax through advanced concepts for beginners | `Dart` `Education` |
+| 🧮 [**Improved K-Means**](https://github.com/jersanmd/improvedkmeans) | Enhanced K-Means clustering algorithm with optimizations and experiments | `Python` `ML` `Jupyter` |
 
 </div>
 
