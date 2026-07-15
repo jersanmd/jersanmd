@@ -25,11 +25,11 @@ Building modern SaaS, AI applications, and open-source software.
 
 # About Me
 
-I'm a **full-stack software engineer** who enjoys turning ideas into products that people actually use.
+I'm a **full-stack software engineer** from Davao City, Philippines 🇵🇭 who turns ideas into production products.
 
-Rather than collecting unfinished side projects, I focus on building complete applications, from designing the database and APIs to crafting polished user experiences and deploying production infrastructure.
+My work spans SaaS platforms, AI-powered tools, mobile apps, and automation scripts — 14 public repositories covering TypeScript, Python, Dart, Swift, and more. I ship complete applications end-to-end: database design, API architecture, polished UI, and production deployment.
 
-I enjoy solving real-world problems with clean architecture, thoughtful UX, and scalable systems.
+I believe code is only valuable when it solves someone's problem.
 
 ---
 
@@ -38,32 +38,43 @@ I enjoy solving real-world problems with clean architecture, thoughtful UX, and 
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%">
 
 ## ⚔️ RaidScout
 
-Guild management platform for MMO communities featuring:
+The Operating System for Competitive MMO Guilds
 
 - Real-time boss timers
 - Discord integration
 - DKP auctions
-- Analytics
-- Multi-tenant architecture
-- Production SaaS
+- Analytics & leaderboards
+- Multi-tenant SaaS
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
 ## ⛪ Shepherd
 
-AI-powered church platform focused on:
+Every church has a story. Shepherd makes sure it's never lost.
 
 - Sermon transcription
-- AI summaries
-- Scripture references
+- AI summaries & scripture refs
 - Searchable sermon archive
 - Church knowledge management
+
+</td>
+
+<td width="33%">
+
+## 🛡️ Global Accounts
+
+Premium gaming marketplace
+
+- Middleman verification
+- Crypto payments
+- In-app chat
+- Escrow-protected trading
 
 </td>
 
@@ -182,14 +193,33 @@ Every project is an opportunity to improve both technical and product skills.
 
 # Featured Repositories
 
-<div align="center">
+## 🚀 Production & Flagship
 
-| Project | Description |
-|---------|-------------|
-| ⚔️ **RaidScout** | Production SaaS for MMO guild management |
-| ⛪ **Shepherd** | AI-powered sermon archive platform |
-| 📦 **Open Source** | Developer tools and libraries |
-| 🧪 **Experiments** | Learning projects and technical explorations |
+| Repository | Description | Tech |
+|------------|-------------|------|
+| ⚔️ [**RaidScout**](https://github.com/jersanmd/raidscout) | The Operating System for Competitive MMO Guilds — real-time boss timers, Discord integration, DKP auctions, multi-tenant SaaS | `TypeScript` `Supabase` `React` |
+| ⛪ [**Shepherd**](https://github.com/jersanmd/shepherd) | AI-powered church platform — sermon transcription, AI summaries, scripture references, searchable archive | `TypeScript` `AI` `Supabase` |
+| 🛡️ [**Global Accounts**](https://github.com/jersanmd/global-accounts) | Premium gaming marketplace with middleman verification, crypto payments, in-app chat & escrow-protected trading | `TypeScript` `Crypto` `Supabase` |
+
+## 🌍 Real-World Applications
+
+| Repository | Description | Tech |
+|------------|-------------|------|
+| 🌳 [**UM Forest Tracker**](https://github.com/jersanmd/umforesttracker) | Tree mapping & species identification platform for the University of Mindanao — interactive maps, image-based species detection | `CSS` `Maps` `ML` |
+| 🍽️ [**Wady's Bistro App**](https://github.com/jersanmd/wadys_bistro_mobile_app) | Flutter mobile app for a real restaurant — browse menu, search/filter items, product details, reservations | `Flutter` `Dart` |
+| 💀 [**LordNine Death Notifier**](https://github.com/jersanmd/lordnine-death-notifier) | Single-script MMORPG automation bot — monitors game window, auto-recovers on death, Discord alerts for AFK farming | `Python` `Automation` |
+
+## 🧪 Experiments & Learning
+
+| Repository | Description | Tech |
+|------------|-------------|------|
+| 🧠 [**Deep Learning**](https://github.com/jersanmd/deeplearning) | Collection of ML/DL experiments, tutorials & implementations with PyTorch | `Python` `PyTorch` `Jupyter` |
+| 🍜 [**Umami**](https://github.com/jersanmd/umami) | Food delivery & order management app — three user roles (Customer, Driver, Manager) | `Flutter` `Dart` `Firebase` |
+| ₿ [**Crypto Wallet**](https://github.com/jersanmd/crypto_wallet) | React Native crypto tracker — real-time prices, portfolio monitoring, dark-themed mobile app | `React Native` `Expo` `JS` |
+| 🎵 [**Audio Player (GetX)**](https://github.com/jersanmd/audio_player_getx) | Feature-rich Flutter audio player — background playback, playlists, repeat/shuffle, polished UI | `Flutter` `Dart` `GetX` |
+| 🐱 [**Purrfect**](https://github.com/jersanmd/purrfect) | Cross-platform pet management — full CRUD, image uploads, Firebase backend, intuitive UI | `Flutter` `Dart` `Firebase` |
+| 📺 [**YouTube Clone**](https://github.com/jersanmd/Youtube-Cloning-with-xCode) | Native iOS YouTube app clone built with Swift & UIKit | `Swift` `UIKit` `iOS` |
+| 🎯 [**Learn Dart**](https://github.com/jersanmd/Learn-Dart) | Comprehensive Dart examples — basic syntax through advanced concepts for beginners | `Dart` `Education` |
 
 </div>
 
