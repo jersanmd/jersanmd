@@ -27,7 +27,7 @@ Building modern SaaS, AI applications, and open-source software.
 
 I'm a **full-stack software engineer** who enjoys turning ideas into products that people actually use.
 
-Rather than collecting unfinished side projects, I focus on building complete applications—from designing the database and APIs to crafting polished user experiences and deploying production infrastructure.
+Rather than collecting unfinished side projects, I focus on building complete applications, from designing the database and APIs to crafting polished user experiences and deploying production infrastructure.
 
 I enjoy solving real-world problems with clean architecture, thoughtful UX, and scalable systems.
 
