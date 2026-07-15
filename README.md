@@ -17,10 +17,6 @@ Building modern SaaS, AI applications, and open-source software.
 <img src="https://img.shields.io/badge/Email-1stjersan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
 </p>
 
 </div>
