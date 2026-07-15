@@ -27,7 +27,7 @@ Building modern SaaS, AI applications, and open-source software.
 
 I'm a **full-stack software engineer** from Davao City, Philippines 🇵🇭 who turns ideas into production products.
 
-My work spans SaaS platforms, AI-powered tools, mobile apps, and automation scripts — 14 public repositories covering TypeScript, Python, Dart, Swift, and more. I ship complete applications end-to-end: database design, API architecture, polished UI, and production deployment.
+My work spans SaaS platforms, AI-powered tools, mobile apps, and automation scripts, 14 public repositories covering TypeScript, Python, Dart, Swift, and more. I ship complete applications end-to-end: database design, API architecture, polished UI, and production deployment.
 
 I believe code is only valuable when it solves someone's problem.
 
