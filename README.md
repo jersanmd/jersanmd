@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=2500&pause=1200&color=3ECF8E&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jersan+Balago;Full-stack+Software+Engineer;Building+products+people+actually+use" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=2500&pause=1200&color=3ECF8E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jersan+Balago;Full-stack+Software+Engineer;Building+products+people+actually+use" />
 
 <p>
 Software Engineer from the Philippines 🇵🇭
