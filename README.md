@@ -217,7 +217,7 @@ Every project is a chance to sharpen both technical and product skills.
 
 <br>
 
-<img width="100%" src="https://github-trophies.vercel.app/?username=jersanmd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
+<img width="100%" src="https://github-trophies.vercel.app/?username=jersanmd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 
 </div>
 
