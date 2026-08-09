@@ -215,10 +215,6 @@ Every project is a chance to sharpen both technical and product skills.
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jersanmd&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3ECF8E&line=3ECF8E&point=3ECF8E&area=true"/>
 
-<br>
-
-<img width="100%" src="https://github-trophies.vercel.app/?username=jersanmd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
-
 </div>
 
 <br>
