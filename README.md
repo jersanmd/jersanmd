@@ -209,8 +209,8 @@ Every project is a chance to sharpen both technical and product skills.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jersanmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=3ECF8E&title_color=3ECF8E&icon_color=3ECF8E&bg_color=0d1117&hide=issues"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jersanmd&layout=compact&theme=tokyonight&hide_border=true&title_color=3ECF8E&bg_color=0d1117&langs_count=8"/>
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=jersanmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=3ECF8E&title_color=3ECF8E&icon_color=3ECF8E&bg_color=0d1117&hide=issues"/>
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jersanmd&layout=compact&theme=tokyonight&hide_border=true&title_color=3ECF8E&bg_color=0d1117&langs_count=8"/>
 
 <br><br>
 
@@ -222,7 +222,7 @@ Every project is a chance to sharpen both technical and product skills.
 
 <br>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jersanmd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
+<img width="100%" src="https://github-trophies.vercel.app/?username=jersanmd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
 
 </div>
 
