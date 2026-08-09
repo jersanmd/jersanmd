@@ -209,11 +209,6 @@ Every project is a chance to sharpen both technical and product skills.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=jersanmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=3ECF8E&title_color=3ECF8E&icon_color=3ECF8E&bg_color=0d1117&hide=issues"/>
-<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jersanmd&layout=compact&theme=tokyonight&hide_border=true&title_color=3ECF8E&bg_color=0d1117&langs_count=8"/>
-
-<br><br>
-
 <img height="170" src="https://streak-stats.demolab.com/?user=jersanmd&theme=tokyonight&hide_border=true&background=0d1117&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E"/>
 
 <br><br>
